@@ -1,11 +1,12 @@
 # Hey there! I'm Vitor/Portix. Welcome to my Github!  
 
 - 🎓 Computer Science - UFSCar;
+- 🎮 Game Engineer Intern @WildlifeStudios
 - 🔦 Improving my game developer skills, trying to improve my Linkedin/GitHub profile 😅;
 - 🌱 Learning about Optimization, Parallel Computing, Unreal Engine and Machine Learning;
 - 🤩 In love with Games;
 - 🤔 Curious by nature;
-- ⚡ I've always thought that game development career was a hard choice in Brazil, and that I'd never find a sport that I'd like, but here I am, trying to be a game dev anyways, and rock climbing 🧗‍♂️;
+- ⚡ I've always thought that game development career was a hard choice in Brazil, and that I'd never find a sport that I'd like, but here I am, interning as game dev, and rock climbing 🧗‍♂️;
 
 ## Some technologies and tools
 <div >
